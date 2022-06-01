@@ -1,74 +1,79 @@
-[
-    {
-        "id": "1",
-        "name": "Shoulder bag",
-        "preview_480x500": {
-            "uri": "https://via.placeholder.com/480x500"
+{
+    "data": [
+        {
+            "id": "1",
+            "name": "Shoulder bag",
+            "preview_480x500": {
+                "uri": "https://via.placeholder.com/480x500"
+            },
+            "preview_300x300": {
+                "uri": "https://via.placeholder.com/900x900"
+            },
+            "sale": "true",
+            "oldPrice": "$38.00",
+            "newPrice": "$30.00",
+            "size": "M",
+            "color": "Black",
+            "quantity": 1,
+            "featured": true,
+            "bestSeller": false
         },
-        "preview_300x300": {
-            "uri": "https://via.placeholder.com/900x900"
+        {
+            "id": "2",
+            "name": "Summer dress",
+            "preview_480x500": {
+                "uri": "https://via.placeholder.com/480x500"
+            },
+            "preview_300x300": {
+                "uri": "https://via.placeholder.com/900x900"
+            },
+            "sale": "true",
+            "oldPrice": "$38.00",
+            "newPrice": "$15.98",
+            "size": "M",
+            "color": "Black",
+            "quantity": 1,
+            "featured": true,
+            "bestSeller": true
         },
-        "sale": "true",
-        "oldPrice": "$38.00",
-        "newPrice": "$30.00",
-        "size": "M",
-        "color": "Black",
-        "quantity": 1,
-        "featured": true,
-        "bestSeller": false
-    },
-    {
-        "id": "2",
-        "name": "Summer dress",
-        "preview_480x500": {
-            "uri": "https://via.placeholder.com/480x500"
+        {
+            "id": "3",
+            "name": "Summer dress",
+            "preview_480x500": {
+                "uri": "https://via.placeholder.com/480x500"
+            },
+            "preview_300x300": {
+                "uri": "https://via.placeholder.com/900x900"
+            },
+            "sale": "true",
+            "oldPrice": "$38.00",
+            "newPrice": "$15.98",
+            "size": "M",
+            "color": "Black",
+            "quantity": 1,
+            "featured": false,
+            "bestSeller": true
         },
-        "preview_300x300": {
-            "uri": "https://via.placeholder.com/900x900"
-        },
-        "sale": "true",
-        "oldPrice": "$38.00",
-        "newPrice": "$15.98",
-        "size": "M",
-        "color": "Black",
-        "quantity": 1,
-        "featured": true,
-        "bestSeller": true
-    },
-    {
-        "id": "3",
-        "name": "Summer dress",
-        "preview_480x500": {
-            "uri": "https://via.placeholder.com/480x500"
-        },
-        "preview_300x300": {
-            "uri": "https://via.placeholder.com/900x900"
-        },
-        "sale": "true",
-        "oldPrice": "$38.00",
-        "newPrice": "$15.98",
-        "size": "M",
-        "color": "Black",
-        "quantity": 1,
-        "featured": false,
-        "bestSeller": true
-    },
-    {
-        "id": "4",
-        "name": "Summer dress",
-        "preview_480x500": {
-            "uri": "https://via.placeholder.com/480x500"
-        },
-        "preview_300x300": {
-            "uri": "https://via.placeholder.com/900x900"
-        },
-        "sale": "true",
-        "oldPrice": "$38.00",
-        "newPrice": "$15.98",
-        "size": "M",
-        "color": "Black",
-        "quantity": 1,
-        "featured": false,
-        "bestSeller": true
+        {
+            "id": "4",
+            "name": "Summer dress",
+            "preview_480x500": {
+                "uri": "https://via.placeholder.com/480x500"
+            },
+            "preview_300x300": {
+                "uri": "https://via.placeholder.com/900x900"
+            },
+            "sale": "true",
+            "oldPrice": "$38.00",
+            "newPrice": "$15.98",
+            "size": "M",
+            "color": "Black",
+            "quantity": 1,
+            "featured": false,
+            "bestSeller": true
+        }
+    ],
+    "promo_image": {
+        "uri": "https://via.placeholder.com/480x500"
     }
-]
+}
