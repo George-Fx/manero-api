@@ -1,18 +1,30 @@
 [
     {
-        "name": "",
-        "type": "address"
+        "id": "1",
+        "name": "Shoulder bag",
+        "preview_300x300": {
+            "uri": "https://via.placeholder.com/900x900"
+        },
+        "sale": "true",
+        "oldPrice": "$38.00",
+        "newPrice": "$30.00",
+        "size": "M",
+        "color": "Black",
+        "quantity": 1,
+        "featured": true
     },
     {
-        "name": "",
-        "type": "uint256"
-    },
-    {
-        "name": "",
-        "type": "uint256"
-    },
-    {
-        "name": "",
-        "type": "uint256"
+        "id": "2",
+        "name": "Summer dress",
+        "preview_300x300": {
+            "uri": "https://via.placeholder.com/900x900"
+        },
+        "sale": "true",
+        "oldPrice": "$38.00",
+        "newPrice": "$15.98",
+        "size": "M",
+        "color": "Black",
+        "quantity": 1,
+        "featured": true
     }
 ]
