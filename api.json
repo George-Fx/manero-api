@@ -75,5 +75,19 @@
     ],
     "promo_image": {
         "uri": "https://via.placeholder.com/480x500"
-    }
+    },
+    "slides": [
+        {
+            "id": "1",
+            "uri": "https://via.placeholder.com/480x500"
+        },
+        {
+            "id": "2",
+            "uri": "https://via.placeholder.com/480x500"
+        },
+        {
+            "id": "3",
+            "uri": "https://via.placeholder.com/480x500"
+        }
+    ]
 }
