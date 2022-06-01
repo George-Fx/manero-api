@@ -3,12 +3,6 @@
         {
             "id": "1",
             "name": "Shoulder bag",
-            "preview_480x500": {
-                "uri": "https://via.placeholder.com/480x500"
-            },
-            "preview_300x300": {
-                "uri": "https://via.placeholder.com/900x900"
-            },
             "sale": "true",
             "oldPrice": "$38.00",
             "newPrice": "$30.00",
@@ -16,17 +10,37 @@
             "color": "Black",
             "quantity": 1,
             "featured": true,
-            "bestSeller": false
-        },
-        {
-            "id": "2",
-            "name": "Summer dress",
+            "bestSeller": false,
             "preview_480x500": {
                 "uri": "https://via.placeholder.com/480x500"
             },
             "preview_300x300": {
                 "uri": "https://via.placeholder.com/900x900"
             },
+            "slides": [
+                {
+                    "id": "1",
+                    "preview_1125x1050": {
+                        "uri": "https://via.placeholder.com/1125x1050"
+                    }
+                },
+                {
+                    "id": "2",
+                    "preview_1125x1050": {
+                        "uri": "https://via.placeholder.com/1125x1050"
+                    }
+                },
+                {
+                    "id": "3",
+                    "preview_1125x1050": {
+                        "uri": "https://via.placeholder.com/1125x1050"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Summer dress",
             "sale": "true",
             "oldPrice": "$38.00",
             "newPrice": "$15.98",
@@ -34,17 +48,37 @@
             "color": "Black",
             "quantity": 1,
             "featured": true,
-            "bestSeller": true
+            "bestSeller": true,
+            "preview_480x500": {
+                "uri": "https://via.placeholder.com/480x500"
+            },
+            "preview_300x300": {
+                "uri": "https://via.placeholder.com/900x900"
+            },
+            "slides": [
+                {
+                    "id": "1",
+                    "preview_1125x1050": {
+                        "uri": "https://via.placeholder.com/1125x1050"
+                    }
+                },
+                {
+                    "id": "2",
+                    "preview_1125x1050": {
+                        "uri": "https://via.placeholder.com/1125x1050"
+                    }
+                },
+                {
+                    "id": "3",
+                    "preview_1125x1050": {
+                        "uri": "https://via.placeholder.com/1125x1050"
+                    }
+                }
+            ]
         },
         {
             "id": "3",
             "name": "Summer dress",
-            "preview_480x500": {
-                "uri": "https://via.placeholder.com/480x500"
-            },
-            "preview_300x300": {
-                "uri": "https://via.placeholder.com/900x900"
-            },
             "sale": "true",
             "oldPrice": "$38.00",
             "newPrice": "$15.98",
@@ -52,17 +86,37 @@
             "color": "Black",
             "quantity": 1,
             "featured": false,
-            "bestSeller": true
+            "bestSeller": true,
+            "preview_480x500": {
+                "uri": "https://via.placeholder.com/480x500"
+            },
+            "preview_300x300": {
+                "uri": "https://via.placeholder.com/900x900"
+            },
+            "slides": [
+                {
+                    "id": "1",
+                    "preview_1125x1050": {
+                        "uri": "https://via.placeholder.com/1125x1050"
+                    }
+                },
+                {
+                    "id": "2",
+                    "preview_1125x1050": {
+                        "uri": "https://via.placeholder.com/1125x1050"
+                    }
+                },
+                {
+                    "id": "3",
+                    "preview_1125x1050": {
+                        "uri": "https://via.placeholder.com/1125x1050"
+                    }
+                }
+            ]
         },
         {
             "id": "4",
             "name": "Summer dress",
-            "preview_480x500": {
-                "uri": "https://via.placeholder.com/480x500"
-            },
-            "preview_300x300": {
-                "uri": "https://via.placeholder.com/900x900"
-            },
             "sale": "true",
             "oldPrice": "$38.00",
             "newPrice": "$15.98",
@@ -70,7 +124,33 @@
             "color": "Black",
             "quantity": 1,
             "featured": false,
-            "bestSeller": true
+            "bestSeller": true,
+            "preview_480x500": {
+                "uri": "https://via.placeholder.com/480x500"
+            },
+            "preview_300x300": {
+                "uri": "https://via.placeholder.com/900x900"
+            },
+            "slides": [
+                {
+                    "id": "1",
+                    "preview_1125x1050": {
+                        "uri": "https://via.placeholder.com/1125x1050"
+                    }
+                },
+                {
+                    "id": "2",
+                    "preview_1125x1050": {
+                        "uri": "https://via.placeholder.com/1125x1050"
+                    }
+                },
+                {
+                    "id": "3",
+                    "preview_1125x1050": {
+                        "uri": "https://via.placeholder.com/1125x1050"
+                    }
+                }
+            ]
         }
     ],
     "promo_image": {
