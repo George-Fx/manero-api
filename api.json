@@ -11,7 +11,8 @@
         "size": "M",
         "color": "Black",
         "quantity": 1,
-        "featured": true
+        "featured": true,
+        "bestSeller": true
     },
     {
         "id": "2",
@@ -25,7 +26,8 @@
         "size": "M",
         "color": "Black",
         "quantity": 1,
-        "featured": true
+        "featured": true,
+        "bestSeller": true
     },
     {
         "id": "3",
@@ -39,7 +41,8 @@
         "size": "M",
         "color": "Black",
         "quantity": 1,
-        "featured": true
+        "featured": true,
+        "bestSeller": true
     },
     {
         "id": "4",
@@ -53,6 +56,7 @@
         "size": "M",
         "color": "Black",
         "quantity": 1,
-        "featured": true
+        "featured": true,
+        "bestSeller": true
     }
 ]
