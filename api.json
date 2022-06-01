@@ -50,13 +50,13 @@
         "size": "M",
         "color": "Black",
         "quantity": 1,
-        "featured": true,
+        "featured": false,
         "bestSeller": true
     },
     {
         "id": "4",
         "name": "Summer dress",
-        "preview_160x170": {
+        "preview_480x500": {
             "uri": "https://via.placeholder.com/480x500"
         },
         "preview_300x300": {
@@ -68,7 +68,7 @@
         "size": "M",
         "color": "Black",
         "quantity": 1,
-        "featured": true,
+        "featured": false,
         "bestSeller": true
     }
 ]
