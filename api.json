@@ -2,7 +2,7 @@
     {
         "id": "1",
         "name": "Shoulder bag",
-        "preview_160x170": {
+        "preview_480x500": {
             "uri": "https://via.placeholder.com/480x500"
         },
         "preview_300x300": {
@@ -20,7 +20,7 @@
     {
         "id": "2",
         "name": "Summer dress",
-        "preview_160x170": {
+        "preview_480x500": {
             "uri": "https://via.placeholder.com/480x500"
         },
         "preview_300x300": {
@@ -38,7 +38,7 @@
     {
         "id": "3",
         "name": "Summer dress",
-        "preview_160x170": {
+        "preview_480x500": {
             "uri": "https://via.placeholder.com/480x500"
         },
         "preview_300x300": {
