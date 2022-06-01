@@ -15,7 +15,7 @@
         "color": "Black",
         "quantity": 1,
         "featured": true,
-        "bestSeller": true
+        "bestSeller": false
     },
     {
         "id": "2",
