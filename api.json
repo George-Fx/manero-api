@@ -154,7 +154,9 @@
         }
     ],
     "promo_image": {
-        "uri": "https://via.placeholder.com/1125x450"
+        "image": {
+            "uri": "https://via.placeholder.com/1125x450"
+        }
     },
     "slides": [
         {
