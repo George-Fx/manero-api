@@ -7,33 +7,6 @@
             "price": 30,
             "sale": "true",
             "sizes": ["S", "M", "L", "XL", "XXL"],
-            "colors": [
-                {
-                    "id": "1",
-                    "color": "Carrot",
-                    "code": "#FF6262"
-                },
-                {
-                    "id": "2",
-                    "color": "Black",
-                    "code": "#000000"
-                },
-                {
-                    "id": "3",
-                    "color": "Black",
-                    "code": "#000000"
-                },
-                {
-                    "id": "4",
-                    "color": "Black",
-                    "code": "#000000"
-                },
-                {
-                    "id": "5",
-                    "color": "Black",
-                    "code": "#000000"
-                }
-            ],
             "quantity": 1,
             "featured": true,
             "bestSeller": false,
@@ -65,6 +38,33 @@
                         "uri": "https://via.placeholder.com/1125x1050"
                     }
                 }
+            ],
+            "colors": [
+                {
+                    "id": "1",
+                    "color": "Carrot",
+                    "code": "#FF6262"
+                },
+                {
+                    "id": "2",
+                    "color": "Blue",
+                    "code": "#63C7FF"
+                },
+                {
+                    "id": "3",
+                    "color": "Beige",
+                    "code": "#F8E7CD"
+                },
+                {
+                    "id": "4",
+                    "color": "Lilac",
+                    "code": "#323858"
+                },
+                {
+                    "id": "5",
+                    "color": "Black",
+                    "code": "#111111"
+                }
             ]
         },
         {
@@ -74,33 +74,6 @@
             "price": 30,
             "sale": "true",
             "sizes": ["S", "M", "L", "XL", "XXL"],
-            "colors": [
-                {
-                    "id": "1",
-                    "color": "Carrot",
-                    "code": "#FF6262"
-                },
-                {
-                    "id": "2",
-                    "color": "Black",
-                    "code": "#000000"
-                },
-                {
-                    "id": "3",
-                    "color": "Black",
-                    "code": "#000000"
-                },
-                {
-                    "id": "4",
-                    "color": "Black",
-                    "code": "#000000"
-                },
-                {
-                    "id": "5",
-                    "color": "Black",
-                    "code": "#000000"
-                }
-            ],
             "quantity": 1,
             "featured": true,
             "bestSeller": true,
@@ -132,6 +105,33 @@
                         "uri": "https://via.placeholder.com/1125x1050"
                     }
                 }
+            ],
+            "colors": [
+                {
+                    "id": "1",
+                    "color": "Carrot",
+                    "code": "#FF6262"
+                },
+                {
+                    "id": "2",
+                    "color": "Blue",
+                    "code": "#63C7FF"
+                },
+                {
+                    "id": "3",
+                    "color": "Beige",
+                    "code": "#F8E7CD"
+                },
+                {
+                    "id": "4",
+                    "color": "Lilac",
+                    "code": "#323858"
+                },
+                {
+                    "id": "5",
+                    "color": "Black",
+                    "code": "#111111"
+                }
             ]
         },
         {
@@ -141,33 +141,6 @@
             "price": 30,
             "sale": "true",
             "sizes": ["S", "M", "L", "XL", "XXL"],
-            "colors": [
-                {
-                    "id": "1",
-                    "color": "Carrot",
-                    "code": "#FF6262"
-                },
-                {
-                    "id": "2",
-                    "color": "Black",
-                    "code": "#000000"
-                },
-                {
-                    "id": "3",
-                    "color": "Black",
-                    "code": "#000000"
-                },
-                {
-                    "id": "4",
-                    "color": "Black",
-                    "code": "#000000"
-                },
-                {
-                    "id": "5",
-                    "color": "Black",
-                    "code": "#000000"
-                }
-            ],
             "quantity": 1,
             "featured": false,
             "bestSeller": true,
@@ -198,6 +171,33 @@
                     "preview_1125x1050": {
                         "uri": "https://via.placeholder.com/1125x1050"
                     }
+                }
+            ],
+            "colors": [
+                {
+                    "id": "1",
+                    "color": "Carrot",
+                    "code": "#FF6262"
+                },
+                {
+                    "id": "2",
+                    "color": "Blue",
+                    "code": "#63C7FF"
+                },
+                {
+                    "id": "3",
+                    "color": "Beige",
+                    "code": "#F8E7CD"
+                },
+                {
+                    "id": "4",
+                    "color": "Lilac",
+                    "code": "#323858"
+                },
+                {
+                    "id": "5",
+                    "color": "Black",
+                    "code": "#111111"
                 }
             ]
         },
@@ -208,33 +208,6 @@
             "price": 30,
             "sale": "true",
             "sizes": ["S", "M", "L", "XL", "XXL"],
-            "colors": [
-                {
-                    "id": "1",
-                    "color": "Carrot",
-                    "code": "#FF6262"
-                },
-                {
-                    "id": "2",
-                    "color": "Black",
-                    "code": "#000000"
-                },
-                {
-                    "id": "3",
-                    "color": "Black",
-                    "code": "#000000"
-                },
-                {
-                    "id": "4",
-                    "color": "Black",
-                    "code": "#000000"
-                },
-                {
-                    "id": "5",
-                    "color": "Black",
-                    "code": "#000000"
-                }
-            ],
             "quantity": 1,
             "featured": false,
             "bestSeller": true,
@@ -265,6 +238,33 @@
                     "preview_1125x1050": {
                         "uri": "https://via.placeholder.com/1125x1050"
                     }
+                }
+            ],
+            "colors": [
+                {
+                    "id": "1",
+                    "color": "Carrot",
+                    "code": "#FF6262"
+                },
+                {
+                    "id": "2",
+                    "color": "Blue",
+                    "code": "#63C7FF"
+                },
+                {
+                    "id": "3",
+                    "color": "Beige",
+                    "code": "#F8E7CD"
+                },
+                {
+                    "id": "4",
+                    "color": "Lilac",
+                    "code": "#323858"
+                },
+                {
+                    "id": "5",
+                    "color": "Black",
+                    "code": "#111111"
                 }
             ]
         }
