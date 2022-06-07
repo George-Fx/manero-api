@@ -3,8 +3,8 @@
         {
             "id": "1",
             "name": "Shoulder bag",
-            "oldPrice": 38.0,
-            "price": 30.0,
+            "oldPrice": "38.0",
+            "price": "30.0",
             "sale": "true",
             "sizes": ["S", "M", "L", "XL", "XXL"],
             "quantity": 1,
