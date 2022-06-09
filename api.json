@@ -70,7 +70,7 @@
         {
             "id": "2",
             "name": "Summer dress",
-            "oldPrice": 36.0,
+            "oldPrice": 36.99,
             "price": 15.98,
             "sale": true,
             "sizes": ["S", "M", "L", "XL", "XXL"],
